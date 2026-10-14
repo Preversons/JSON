@@ -1,0 +1,93 @@
+{
+    "workbench.colorTheme": "Dark Modern",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontSize": 20,
+    "editor.fontFamily": "'JetBrains Mono', 'FangSong', '仿宋', monospace",
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.tmp": "default",
+        "*.svg": "imagePreview.previewEditor"
+    },
+    "editor.cursorBlinking": "smooth",
+    "C_Cpp.autocomplete": "disabled",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorCustomizations": {
+        
+        "editor.background": "#000000",
+        "sideBar.background": "#000000",
+        "activityBar.background": "#000000",
+        "statusBar.background": "#000000",
+        "panel.background": "#000000",
+        "titleBar.activeBackground": "#000000"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "powermode.shake.intensity": 5,
+    "powermode.shake.enabled": false,
+    "powermode.combo.counterSize": 1,
+    "powermode.combo.location": "editor",
+    "powermode.combo.counterEnabled": "show",
+    "editor.minimap.autohide": "scroll",
+    "editor.fontLigatures": true,
+    "workbench.editor.enablePreview": false,
+    "window.zoomLevel": 0.5,
+    "terminal.integrated.mouseWheelZoom": true,
+    "terminal.integrated.fontSize": 17,
+    "asm-code-lens.assembler": "nasm (x86)",
+    "files.associations": {
+        "*.{asm,inc,s,nasm,yasm,-----------------------------------------}": "asm-x86-nasm"
+    },
+    "git.openRepositoryInParentFolders": "never",
+    "background.fullscreen": {
+
+
+
+        "images": ["D:/my folder/谁敢看？/图片&视频&音乐/红木国家与州立公园的日出，加利福尼亚州，美国.jpg"],
+        "opacity": 0.2,
+        "size": "cover",
+        "position": "center",
+        "styles": [],
+        "interval": 0,
+        "random": false
+    },
+    "background.editor": {
+
+        "useFront": true,
+        "style": {
+            "background-position": "100% 100%",
+            "background-size": "auto",
+            "opacity": 0.5
+        },
+        "styles": [],
+        "images": [],
+        "interval": 0,
+        "random": false
+    },
+    "glowrays.enable": false,
+    "glowrays.intensity": 10,
+    "glowrays.includeLanguages": [
+        "*"
+    ],
+    "glowrays.excludeLanguages": [],
+    "glowrays.disableOnErrors": false,
+    "glowrays.dynamic.config": "3 14 8 false",
+    "glowrays.pauseAnimationWhileTyping": true,
+    "glowrays.GlowOnDefinitionNames": false,
+    "glowrays.advancedMode": true,
+    "editor.autoIndentOnPaste": true,
+    "terminal.integrated.fontFamily": "'JetBrains Mono', monospace",
+    "editor.codeActionsOnSave": {
+
+    },
+    "editor.lineHeight": 35,
+    "editor.letterSpacing": 0.3,
+    "window.customTitleBarVisibility": "windowed",
+    "editor.renderWhitespace": "none",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "[cpp]": {
+        "editor.wordBasedSuggestions": "off",
+        "editor.semanticHighlighting.enabled": true,
+        "editor.stickyScroll.defaultModel": "foldingProviderModel",
+        "editor.suggest.insertMode": "replace"
+    },
+    "background.enabled": true
+}

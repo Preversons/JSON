@@ -1,0 +1,8 @@
+#define RED     "\033[91m"
+#define GREEN   "\033[92m"
+#define YELLOW  "\033[93m"
+#define BLUE    "\033[94m"
+#define PURPLE  "\033[95m"
+#define CYAN    "\033[96m"
+#define RESET   "\033[0m"
+#define DEFAULT "\033[0m"
